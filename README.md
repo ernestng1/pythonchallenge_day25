@@ -7,7 +7,7 @@
 </ul>
 
 > [!TIP]
-> It's exciting to learn how database can be integrated with front-end development, specficially how Pandas (Database) and Turtle (front-end) can be implemented. This seems to unlock alot of possibilities (e.g., data visualisation) which I am very excited for.
+> It's exciting to learn how database can be integrated with front-end development, specficially how Pandas (Database) and Turtle (front-end) can be implemented. To handle large database, I always found it easier to break it into smaller parts (e.g., seeing part of the dataset) and also checking the documentation to look for pre-made functions that can help to speed up the process.
 
 <h2>Why am I doing this?</h2>
 <p>I have learned python before in school but I hope to revisit some of the python concepts that I may have forgotten and at the same time delve further into python, especially in the field of data science and visualisation.</p>
